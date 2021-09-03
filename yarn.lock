@@ -15,17 +15,17 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@apeswapfinance/uikit@^0.10.35":
+"@swap-org/uikit@^0.10.35":
   version "0.10.35"
-  resolved "https://npm.pkg.github.com/download/@apeswapfinance/uikit/0.10.35/7f0fa22486d29de3250d91f34f6a45a719a70f8f87add502d7d12c77ba54236c#2601ec22cd09d6c5445e18530f4ae34f575d27ea"
-  integrity sha512-WmuYfhz9cLZCR4RZooPGlZVbPSr0k7HONg1jXUgyvmXPZ3LrGjdEo8/a+xktPHoqxn4hhjc+ZHOcT/+lHyoa3Q==
+  resolved "https://npm.pkg.github.com/download/@swap-org/uikit/0.10.35/4ca1776af0db99a2e97becffce5dfd043408bf7d9551c166431c8bbee443766f#f4fb015cc4b96cc3b21fb6ed4dbe49391f595192"
+  integrity sha512-zm4+R5tFkxcN0h2bTqNJ1auKB5hJyygGdxhtFAU9x5H054+GoNJw+xdG85YdeC6pm7QMyEewXbMMZHoLuBIj6w==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
     lodash "^4.17.20"
     react-transition-group "^4.4.1"
     styled-system "^5.1.5"
-
+    
 "@babel/code-frame@7.10.4":
   version "7.10.4"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.10.4.tgz#168da1a36e90da68ae8d49c0f1b48c7c6249213a"
@@ -2436,6 +2436,8 @@
     "@svgr/plugin-jsx" "^5.4.0"
     "@svgr/plugin-svgo" "^5.4.0"
     loader-utils "^2.0.0"
+
+
 
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"

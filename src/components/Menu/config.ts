@@ -1,4 +1,4 @@
-import { MenuEntry } from '@apeswapfinance/uikit'
+import { MenuEntry } from '@swap-org/uikit'
 
 export const BASE_APP_URL = process.env.REACT_APP_BASE_APP_URL || 'https://apeswap-frontend.vercel.app';
 

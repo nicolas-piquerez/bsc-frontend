@@ -1,7 +1,7 @@
 import { ChainId } from '@apeswapfinance/sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
-import { Button, LinkExternal } from '@apeswapfinance/uikit'
+import { Button, LinkExternal } from '@swap-org/uikit'
 import { ArrowUpCircle } from 'react-feather'
 import { AutoColumn } from '../Column'
 import { getEtherscanLink } from '../../utils'

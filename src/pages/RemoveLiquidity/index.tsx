@@ -4,7 +4,7 @@ import styled, { ThemeContext } from 'styled-components'
 import { Contract } from '@ethersproject/contracts'
 import { TransactionResponse } from '@ethersproject/providers'
 import { Currency, currencyEquals, ETHER, Percent, WETH } from '@apeswapfinance/sdk'
-import { Button, Flex, Text } from '@apeswapfinance/uikit'
+import { Button, Flex, Text } from '@swap-org/uikit'
 import { ArrowDown, Plus } from 'react-feather'
 import { RouteComponentProps } from 'react-router'
 

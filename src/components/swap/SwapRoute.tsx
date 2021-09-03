@@ -1,7 +1,7 @@
 import { Trade } from '@apeswapfinance/sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
-import { Flex } from '@apeswapfinance/uikit'
+import { Flex } from '@swap-org/uikit'
 import { ThemeContext } from 'styled-components'
 import { TYPE } from '../Shared'
 import CurrencyLogo from '../CurrencyLogo'

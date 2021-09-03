@@ -1,6 +1,6 @@
 import React from 'react'
 import styled, { keyframes } from 'styled-components'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from '@swap-org/uikit'
 import Card from 'components/Card'
 
 const RainbowLight = keyframes`
