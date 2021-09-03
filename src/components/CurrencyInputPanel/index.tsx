@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
 import { Currency, Pair } from '@apeswapfinance/sdk'
-import { Button, ChevronDownIcon, Text } from '@apeswapfinance/uikit'
+import { Button, ChevronDownIcon, Text } from '@swap-org/uikit'
 import styled from 'styled-components'
 import { darken } from 'polished'
 // import EstimatedConvertDollar from 'components/swap/EstimatedConvertDollar'

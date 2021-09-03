@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from '@apeswapfinance/sdk'
-import { Card, CardBody, Text } from '@apeswapfinance/uikit'
+import { Card, CardBody, Text } from '@swap-org/uikit'
 import { ExternalLink } from 'components/Shared'
 import styled from 'styled-components'
 import { Field } from '../../state/swap/actions'

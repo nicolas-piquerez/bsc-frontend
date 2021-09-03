@@ -1,7 +1,7 @@
 import React from 'react'
 import { RowBetween } from 'components/Row'
 import { Text } from 'rebass'
-import { CloseIcon, ArrowBackIcon } from '@apeswapfinance/uikit'
+import { CloseIcon, ArrowBackIcon } from '@swap-org/uikit'
 import styled from 'styled-components'
 import { PaddedColumn, Separator } from './styleds'
 // import ManageLists from './ManageLists'

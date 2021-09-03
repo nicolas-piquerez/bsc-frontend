@@ -1,7 +1,7 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Pair } from '@apeswapfinance/sdk'
-import { Button, CardBody, Text } from '@apeswapfinance/uikit'
+import { Button, CardBody, Text } from '@swap-org/uikit'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'
 import Question from 'components/QuestionHelper'

@@ -1,4 +1,4 @@
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from '@swap-org/uikit'
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`

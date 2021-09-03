@@ -1,6 +1,6 @@
 import React from 'react'
 import { Currency, Percent, Price } from '@apeswapfinance/sdk'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from '@swap-org/uikit'
 import { AutoColumn } from '../../components/Column'
 import { AutoRow } from '../../components/Row'
 import { ONE_BIPS } from '../../constants'
