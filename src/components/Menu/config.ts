@@ -9,7 +9,7 @@ const config: MenuEntry[] = [
     href: BASE_APP_URL,
   },
   {
-    label: 'Ape Stats',
+    label: 'Stats',
     icon: 'StatsIcon',
     href: `${BASE_APP_URL}/stats`,
   },
@@ -39,7 +39,7 @@ const config: MenuEntry[] = [
     href: `${BASE_APP_URL}/pools`,
   },
   {
-    label: 'IAO',
+    label: 'Launchpad',
     icon: 'IfoIcon',
     href: `${BASE_APP_URL}/iao`,
   },
@@ -58,65 +58,65 @@ const config: MenuEntry[] = [
   //   icon: 'TicketIcon',
   //   href: `${BASE_APP_URL}/lottery`,
   // },
-  {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'Overview',
-        href: 'https://info.apeswap.finance',
-      },
-      {
-        label: 'Tokens',
-        href: 'https://info.apeswap.finance/tokens',
-      },
-      {
-        label: 'Pairs',
-        href: 'https://info.apeswap.finance/pairs',
-      },
-      {
-        label: 'Accounts',
-        href: 'https://info.apeswap.finance/accounts',
-      },
-    ],
-  },
+  // {
+  //   label: 'Info',
+  //   icon: 'InfoIcon',
+  //   items: [
+  //     {
+  //       label: 'Overview',
+  //       href: 'https://info.apeswap.finance',
+  //     },
+  //     {
+  //       label: 'Tokens',
+  //       href: 'https://info.apeswap.finance/tokens',
+  //     },
+  //     {
+  //       label: 'Pairs',
+  //       href: 'https://info.apeswap.finance/pairs',
+  //     },
+  //     {
+  //       label: 'Accounts',
+  //       href: 'https://info.apeswap.finance/accounts',
+  //     },
+  //   ],
+  // },
   {
     label: 'More',
     icon: 'MoreIcon',
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/apeswapfinance',
+        href: 'https://github.com/swap-org',
       },
       {
         label: 'Docs',
-        href: 'https://apeswap.gitbook.io/apeswap-finance',
+        href: 'https://github.com/swap-org',
       },
-      {
-        label: 'Blog',
-        href: 'https://ape-swap.medium.com',
-      },
-      {
-        label: 'Team',
-        href: 'https://ape-swap.medium.com/meet-the-founding-monkeys-behind-apeswap-6f837113db00',
-      },
-      {
-        label: 'Community Feedback',
-        href: 'https://apeswap.nolt.io/',
-      },
-      {
-        label: 'ApeTV',
-        href: 'https://anchor.fm/apetv',
-      },
-      {
-        label: 'Bug Bounty Program',
-        href: 'https://apeswap.gitbook.io/apeswap-finance/security/bug-bounty-program',
-      },
-      {
-        label: 'GEMZ Audit Report',
-        href:
-          'https://github.com/ApeSwapFinance/apeswap-banana-farm/blob/master/audits/ApeSwap_GEMZ_Audit_Report_21.03.05.pdf',
-      },
+      // {
+      //   label: 'Blog',
+      //   href: 'https://ape-swap.medium.com',
+      // },
+      // {
+      //   label: 'Team',
+      //   href: 'https://ape-swap.medium.com/meet-the-founding-monkeys-behind-apeswap-6f837113db00',
+      // },
+      // {
+      //   label: 'Community Feedback',
+      //   href: 'https://apeswap.nolt.io/',
+      // },
+      // {
+      //   label: 'ApeTV',
+      //   href: 'https://anchor.fm/apetv',
+      // },
+      // {
+      //   label: 'Bug Bounty Program',
+      //   href: 'https://apeswap.gitbook.io/apeswap-finance/security/bug-bounty-program',
+      // },
+      // {
+      //   label: 'GEMZ Audit Report',
+      //   href:
+      //     'https://github.com/ApeSwapFinance/apeswap-banana-farm/blob/master/audits/ApeSwap_GEMZ_Audit_Report_21.03.05.pdf',
+      // },
     ],
   },
 ]
