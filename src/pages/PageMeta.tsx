@@ -11,20 +11,20 @@ type PageMeta = {
   
 
 const DEFAULT_META: PageMeta = {
-    title: 'ApeSwap',
-    description: 'Cheaper and faster than UniSwap? Discover ApeSwap, the go to AMM and yield farm for apes by apes.',
-    image: 'https://apeswap.finance/logo.png',
+    title: 'Swap.org',
+    description: 'Cheaper and faster than UniSwap? Discover Swap.org, the go to AMM and yield farm for BSC.',
+    image: 'https://swap.org/logo.png',
   }
   
 const customMeta: { [key: string]: PageMeta } = {
     'swap': {
-      title: 'Swap | ApeSwap',
+      title: 'Swap | Swap.org',
     },
     'pool': {
-      title: 'Liquidity | ApeSwap',
+      title: 'Liquidity | Swap.org',
     },
     'add': {
-      title: 'Add Liquidity | ApeSwap',
+      title: 'Add Liquidity | Swap.org',
     },
 }
 const PageMeta = () => {

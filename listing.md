@@ -1,4 +1,4 @@
-# ApeSwap Listing Tutorial
+# Listing Tutorial
 
 So, you’ve come, you’ve tasted our secret sauce 🥞 and now you’re wanting to be a part of the ApeSwap kitchen.
 
@@ -6,11 +6,11 @@ If you’re interested in listing on the ApeSwap exchange, follow this guide clo
 
 ## Requirements
 
-If you are seeking to be added to the [ApeSwap.finance](https://apeswap.finance/) exchange, you should open a [listing request issue](#). Someone from the team will review your application. Once it's validated, you can jump to the mext step.
+If you are seeking to be added to the [Swap.org](https://swap.org/) exchange, you should open a [listing request issue](#). Someone from the team will review your application. Once it's validated, you can jump to the mext step.
 
 ## Adding Tokens
 
-1. Fork the [ApeSwapFinance Interface](https://github.com/ApeSwapFinance/apeswap-dex/) repository on GitHub
+1. Fork the [Swap.org Interface](https://github.com/swap-org/bsc-frontend/) repository on GitHub
 2. Upload your **logo** in a 96\*96px transparent .png format to the `/public/images/coins` directory. Please name the logo as your symbol in uppercase.
 
 3. Add your **token information** using the example format provided below to `apeswap.json` in the `/src/constants/token/` directory.
@@ -36,7 +36,7 @@ If you are seeking to be added to the [ApeSwap.finance](https://apeswap.finance/
 },
 ```
 
-If you're not comfortable with GitHub pull requests, please open a [new issue](https://github.com/ApeSwapFinance/ape-swap-dex/issues/new) requesting to be added.
+If you're not comfortable with GitHub pull requests, please open a [new issue](https://github.com/swap-org/bsc-frontend/issues/new) requesting to be added.
 
 ## Reviews
 
