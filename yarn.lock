@@ -15,17 +15,6 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@swap-org/uikit@^0.10.35":
-  version "0.10.35"
-  resolved "https://npm.pkg.github.com/download/@swap-org/uikit/0.10.35/4ca1776af0db99a2e97becffce5dfd043408bf7d9551c166431c8bbee443766f#f4fb015cc4b96cc3b21fb6ed4dbe49391f595192"
-  integrity sha512-zm4+R5tFkxcN0h2bTqNJ1auKB5hJyygGdxhtFAU9x5H054+GoNJw+xdG85YdeC6pm7QMyEewXbMMZHoLuBIj6w==
-  dependencies:
-    "@types/lodash" "^4.14.162"
-    "@types/styled-system" "^5.1.10"
-    lodash "^4.17.20"
-    react-transition-group "^4.4.1"
-    styled-system "^5.1.5"
-    
 "@babel/code-frame@7.10.4":
   version "7.10.4"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.10.4.tgz#168da1a36e90da68ae8d49c0f1b48c7c6249213a"
@@ -2437,7 +2426,16 @@
     "@svgr/plugin-svgo" "^5.4.0"
     loader-utils "^2.0.0"
 
-
+"@swap-org/uikit@^0.10.36":
+  version "0.10.36"
+  resolved "https://npm.pkg.github.com/download/@swap-org/uikit/0.10.36/29809d3fd97788164617fbc268211f25f82dcf5474c8e613f70ef47d41c39948#fa4aab0259b58d24394dc4fe4a6c0e1fc99b3f08"
+  integrity sha512-ka5dWRezS4bQpepyUlkh9GTkoJg5JCNKeT1sVdivsq8tB0o89h6JaHzY8t7JGfVbnY64UIvO7hCTTaC0dfFESQ==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
 
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"

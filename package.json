@@ -1,7 +1,7 @@
 {
   "name": "@apeswap/interface",
   "version": "0.1.1",
-  "description": "Apeswap Interface",
+  "description": "Swap.org Interface",
   "homepage": ".",
   "private": true,
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@apeswapfinance/sdk": "1.0.3",
-    "@swap-org/uikit": "^0.10.35",
+    "@swap-org/uikit": "^0.10.36",
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
     "@pancakeswap-libs/uikit": "^0.10.3",
