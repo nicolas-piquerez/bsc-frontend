@@ -6,7 +6,7 @@ Each listing request made as a pull request instead of an issues with the proper
 
 ---
 
-[ ] Before opening a pull request, please read the [contributing guidelines](https://github.com/ApeSwapFinance/apeswap-dex/blob/master/CONTRIBUTING.md) first
+[ ] Before opening a pull request, please read the [contributing guidelines](https://github.com/swap-org/bsc-frontend/blob/master/CONTRIBUTING.md) first
 [ ] If your PR is work in progress, open it as `draft`
 [ ] Before requesting a review, all the checks need to pass
 [ ] Explain what your PR does
